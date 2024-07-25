@@ -18,3 +18,15 @@ Logistic Regression models the likelihood that an instance will belong to a part
 * matplotlib
 * seaborn
 * numpy
+<br/>
+
+**Data Preparation** <br/>
+Place your dataset in the data/ directory. The dataset should be in a format suitable for binary classification, such as a CSV file with features and a binary target variable. <br/>
+<br/>
+
+**Data Preprocessing** <br/>
+To preprocess the data, including handling missing values and feature scaling. <br/>
+<br/>
+
+**Model Training** <br/>
+To train the logistic regression model
