@@ -37,3 +37,6 @@ To train the logistic regression model:
 
 **Model Evaluation** <br/>
 To evaluate the model's performance:
+* Confusion matrix
+* Accuracy, precision, recall, and F1-score
+* ROC curve and AUC
