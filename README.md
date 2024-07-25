@@ -40,3 +40,9 @@ To evaluate the model's performance:
 * Confusion matrix
 * Accuracy, precision, recall, and F1-score
 * ROC curve and AUC
+<br/>
+
+**Visualizations** <br/>
+* Data distribution and feature analysis
+* Model training process
+* Evaluation metrics and visualizations
