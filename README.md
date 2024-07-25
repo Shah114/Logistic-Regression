@@ -29,4 +29,11 @@ To preprocess the data, including handling missing values and feature scaling. <
 <br/>
 
 **Model Training** <br/>
-To train the logistic regression model
+To train the logistic regression model:
+* Splitting the data into training and testing sets
+* Training the logistic regression model
+* Saving the trained model <br/>
+<br/>
+
+**Model Evaluation** <br/>
+To evaluate the model's performance:
